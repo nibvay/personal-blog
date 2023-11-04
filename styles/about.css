@@ -1,0 +1,10 @@
+h3.companyName {
+  color: rgb(255, 107, 1) !important;
+}
+
+p.workTime {
+  font-style: italic;
+  color: #c3c5cd !important;
+  margin: 0;
+  font-size: 14px;
+}

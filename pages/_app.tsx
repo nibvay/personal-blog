@@ -1,4 +1,5 @@
-import 'nextra-theme-blog/style.css'
+// import 'nextra-theme-blog/style.css'
+import '../styles/about.css'
 import type { AppProps } from 'next/app'
 import Head from 'next/head'
 import '../styles/main.css'
